@@ -2,6 +2,8 @@ body {
   margin: 0;
   -webkit-overflow-scrolling: touch;
   overflow-y: scroll;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
 }
 
 .content {
@@ -13,4 +15,13 @@ body {
 
 p {
   line-height: 1.5;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+a {
+  color: #349bdf;
+  text-decoration: none
 }
